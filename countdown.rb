@@ -9,7 +9,7 @@ end
 end
 
 def countdown_with_sleep(number = 5)
-  sleep(1)
+  sleep(20)
   puts "done"
   number -= 1
 end
